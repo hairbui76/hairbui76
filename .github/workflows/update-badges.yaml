@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Update Badges
-        uses: pemtajo/badge-readme@main
+        uses: hairbui76/credly-badges@v1.0.0
         with:
-          CREDLY_USER: ${{ github.actor }} # Uses your GitHub username
-          NUMBER_LAST_BADGES: 0 # Show last 10 badges (0 = all)
+          CREDLY_USER: ${{ github.actor }}
+          GIT_COMMIT_MESSAGE: ":memo: chore(readme) Update badges"

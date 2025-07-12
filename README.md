@@ -27,8 +27,8 @@ Welcome to my GitHub profile!
 
 ## Achievements
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<!-- CREDLY-BADGES:START -->
+<!-- CREDLY-BADGES:END -->
 
 ## Programming Languages
 
