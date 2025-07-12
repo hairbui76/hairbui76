@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Update Badges
-        uses: hairbui76/credly-badges@v1.0.0
+        uses: hairbui76/credly-badges@v1.0.1
         with:
           CREDLY_USER: ${{ github.actor }}
           GIT_COMMIT_MESSAGE: ":memo: chore(readme) Update badges"
