@@ -1,6 +1,6 @@
-<h1 style="display: flex; align-items: center; justify-content: center; width: 100%;">
+<h1 style="display: flex; gap: 10px; align-items: center; justify-content: center">
 <img alt="👋" src="./assets/wave.gif" width="50" height="50">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=000000&vCenter=true&width=475&lines=Hi+there%2C+I'm+Bui+Duc+Hai" alt="Hi there, I'm Bui Duc Hai" /></a>
+<img src="./assets/greet.svg" alt="Hi there, I'm Bui Duc Hai" style="mix-blend-mode: difference;"/>
 </h1>
 
 Welcome to my GitHub profile!
