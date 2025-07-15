@@ -32,11 +32,12 @@ Welcome to my GitHub profile!
 
 <!-- CREDLY-BADGES:START -->
 
+<a href="https://www.credly.com/badges/ecf1db7f-f4df-406f-9ffa-b90787031d6f" target="_blank"><img src="https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" width="80" height="80" alt="LFS158: Introduction to Kubernetes" title="LFS158: Introduction to Kubernetes&#10;Issued by: The Linux Foundation&#10;Date: Jul 14, 2025" /></a>
 <a href="https://www.credly.com/badges/613de0ae-d019-401c-9011-e8b9d43a6902" target="_blank"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="80" height="80" alt="CKA: Certified Kubernetes Administrator" title="CKA: Certified Kubernetes Administrator&#10;Issued by: The Linux Foundation&#10;Date: Jul 9, 2025" /></a>
 <a href="https://www.credly.com/badges/0eb65f61-0a42-451d-827d-89170107716a" target="_blank"><img src="https://images.credly.com/images/123746a7-fbbe-4fdd-9c0c-f0254e53292a/blob" width="80" height="80" alt="LFS258: Kubernetes Fundamentals" title="LFS258: Kubernetes Fundamentals&#10;Issued by: The Linux Foundation&#10;Date: Jun 23, 2025" /></a>
 
 
-*Last updated: Mon, 14 Jul 2025 03:25:36 GMT*
+*Last updated: Tue, 15 Jul 2025 03:23:43 GMT*
 <!-- CREDLY-BADGES:END -->
 
 ## Programming Languages
