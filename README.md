@@ -55,10 +55,6 @@ Welcome to my GitHub profile!
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff">
 </p>
 
-<p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hairbui76&show_icons=true&locale=en&layout=compact" alt="hairbui76" /></p>
-</p>
-
 ## Package Managers, Frameworks and Libraries
 
 <p>
